@@ -1,0 +1,56 @@
+{
+    "categories":[
+        {
+            "name":"Blankets",
+            "subcategory":[
+                "Polyester",
+                "Mink",
+                "Fleece, or Cotton"
+            ]
+        },
+        {
+            "name":"Pillow",
+            "subcategory":[
+                "Standard",
+                "Neck Roll",
+                "Buttoned"
+            ]
+        },
+        {
+            "name":"Cottons",
+            "subcategory":[
+                "1st Quality",
+                "2st Quality",
+                "3st Quality"
+            ]
+        },
+       
+        {
+            "name":"Bed sheets",
+            "subcategory":[
+                "Linen",
+                "Polyester",
+                "Microfiber"
+            ]
+        },
+        {
+            "name":"Beds",
+            "subcategory":[
+                "Single Bed ",
+                "Twin Bed",
+                "Enignum Bed",
+                "Wave Bed"
+            ]
+        },
+       
+        {
+            "name":"Sofa",
+            "subcategory":[
+                "Chesterfield",
+                "Loveseat",
+                "Divan Sofa",
+                "Sectional Sofa"
+            ]
+        }
+    ]
+}
